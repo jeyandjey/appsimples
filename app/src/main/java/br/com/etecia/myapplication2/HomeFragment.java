@@ -41,6 +41,9 @@ public class ExemploFragment extends Fragment {
             texto = getArguments().getString(ARG_TEXT);
         }
     }
+
+    public interface OnBabyTalk {
+    }
     // onCreateView / onViewCreated ...
 }
 

@@ -31,4 +31,7 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
 
     private class Tab1Fragment extends Fragment {
     }
+
+    private class Tab2Fragment extends Fragment {
+    }
 }
